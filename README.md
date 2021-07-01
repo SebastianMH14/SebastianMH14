@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Sebastian
-#### I am a developer in progress
+## Hi there 👋, my name is Sebastian
+### I am a developer in progress
 I am 18 years old, I always want to learn, I never want to stop doing it, and I never give up, that is what characterizes me.
 
-Skills: C / PYTHON / SHELL / HTML / CSS
+### Skills: C / PYTHON / SHELL / HTML / CSS
 
 - 🔭 I’m currently working on I am currently working on finishing my studies at Holberton 
 - 🌱 I’m currently learning JS / SQL 
