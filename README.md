@@ -15,7 +15,5 @@ I am 18 years old, I always want to learn, I never want to stop doing it, and I 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianMH14&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/SebastianMH14)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SebastianMH14)  
 
