@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Sebastian
+# Hi there 👋, my name is Sebastian
 ### I am a developer in progress
 I am 18 years old, I always want to learn, I never want to stop doing it, and I never give up, that is what characterizes me.
 
