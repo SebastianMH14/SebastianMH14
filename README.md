@@ -4,7 +4,7 @@ I am 19 years old, I always want to learn, I never want to stop doing it, and I 
 
 ### Skills: C / PYTHON / SHELL / HTML / CSS
 
-- 🔭 I’m currently working on I am currently working on finishing my studies at Holberton 
+- 🔭 I am currently working on finishing my studies at Holberton 
 - 🌱 I’m currently learning JS / SQL 
 - ⚡ Fun fact: I love to skateboarding 
 
