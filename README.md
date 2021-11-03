@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
 - 🔭 I am currently working on finishing my studies at Holberton 
-- 🌱 I’m currently learning JS / SQL 
+- 🌱 I’m currently learning Django
 - ⚡ Fun fact: I love to skateboarding 
 
 <h3 align="left">Connect with me:</h3>
