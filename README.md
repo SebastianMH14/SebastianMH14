@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there 👋, my name is Sebastian Molina </h2>
 <h3 align="center">I am a software developer</h3>
-<p>I am 19 years old, I always want to learn, I never want to stop doing it, and I never give up, that is what characterizes me.</p>
+<p>I am 19 years old, always want to learn, I never want to stop doing it, and I never give up, that is what characterizes me.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
